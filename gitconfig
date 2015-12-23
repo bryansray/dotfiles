@@ -1,0 +1,7 @@
+[core]
+	editor = subl -n -w
+[user]
+	name = Bryan Ray
+	email = bryan@bryanray.net
+[push]
+	default = simple
